@@ -2,7 +2,14 @@ import React from 'react'
 
 const Main = () => {
   return (
-    <div>main page </div>
+    <div>
+      <div>
+        {/*main section */}
+        <slider>
+          
+        </slider>
+      </div>
+    </div>
   )
 }
 
